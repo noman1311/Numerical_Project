@@ -274,7 +274,7 @@ Matrix inversion is an operation that finds a matrix \( A^{-1} \) such that \( A
 
 <a  href="https://github.com/noman1311">
 
-<img  src="https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/428674404_2055657981488285_2769521409069830869_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGE2ulnusk3pBDRCDuOA5OcVqe4VSYJ3CVWp7hVJgncJRnCkIUrZai2tO1zm4YLwjrOMhSKYQikY97Z1oOkDBbx&_nc_ohc=E3F52rXeInIQ7kNvgEuSE0_&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fdac146-1.fna&_nc_gid=Aaj-bWYp-BPtvuGtf0GuFEn&oh=00_AYB_D6NRBTENg0I4t_3sxQXZ0tJaLmMWWFxFSDtu_xBplQ&oe=6722DE81"  width="100px;"  alt="Abdullah Al Noman Profile Picture"/><br>
+<img  src="https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/428674404_2055657981488285_2769521409069830869_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGE2ulnusk3pBDRCDuOA5OcVqe4VSYJ3CVWp7hVJgncJRnCkIUrZai2tO1zm4YLwjrOMhSKYQikY97Z1oOkDBbx&_nc_ohc=E3F52rXeInIQ7kNvgEuSE0_&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fdac146-1.fna&_nc_gid=Aaj-bWYp-BPtvuGtf0GuFEn&oh=00_AYB_D6NRBTENg0I4t_3sxQXZ0tJaLmMWWFxFSDtu_xBplQ&oe=6722DE81"  width="250px;"  alt="Abdullah Al Noman Profile Picture"/><br>
 
 <sub>
 
@@ -292,7 +292,7 @@ Matrix inversion is an operation that finds a matrix \( A^{-1} \) such that \( A
 
 <a  href="https://github.com/Avijit-35">
 
-<img  src="https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/345598524_202081039340833_2987918067526877551_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGELphz6-ZDAIQJZmq9q_MZgh1ItO8HxTCCHUi07wfFMChAm6tWGnsIFJJN9ldudhV7mFrHsBEsUBPbICwal9Ma&_nc_ohc=Dnvp9V7p868Q7kNvgHhd7jE&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fdac146-1.fna&_nc_gid=A_aMLG0tPQi7SMP7Flq0qhl&oh=00_AYADV4bvL8jToHUZcASclybdfeFLNWi-Z-VlR_CsBAW-qg&oe=6722B36C"  width="100px;"  alt="Avijit Profile Picture"/><br>
+<img  src="https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/345598524_202081039340833_2987918067526877551_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGELphz6-ZDAIQJZmq9q_MZgh1ItO8HxTCCHUi07wfFMChAm6tWGnsIFJJN9ldudhV7mFrHsBEsUBPbICwal9Ma&_nc_ohc=Dnvp9V7p868Q7kNvgHhd7jE&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fdac146-1.fna&_nc_gid=A_aMLG0tPQi7SMP7Flq0qhl&oh=00_AYADV4bvL8jToHUZcASclybdfeFLNWi-Z-VlR_CsBAW-qg&oe=6722B36C"  width="250px;"  alt="Avijit Profile Picture"/><br>
 
 <sub>
 
@@ -310,7 +310,7 @@ Matrix inversion is an operation that finds a matrix \( A^{-1} \) such that \( A
 
 <a  href="https://github.com/crackhead6474">
 
-<img  src="https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/459418524_122105613728514030_4015433283834980416_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGyfADJy6TnwT83np1Q0eDAC4CYEfo3jVILgJgR-jeNUrYjmHwMolOHjOoQ5uuXQt8CO7_p2oNJJLyV9xehU3VJ&_nc_ohc=M3I7BhC0bAYQ7kNvgHo6L6C&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fdac146-1.fna&_nc_gid=AEakkmO-hAd_zzG9i1ySKAZ&oh=00_AYDg9COfHprkqoG0N5N0UKSsupuRSPPeXau25uQErab9JA&oe=6722BE24"  width="100px;"  alt="Abdullah Sheikh Profile Picture"/><br>
+<img  src="https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/459418524_122105613728514030_4015433283834980416_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGyfADJy6TnwT83np1Q0eDAC4CYEfo3jVILgJgR-jeNUrYjmHwMolOHjOoQ5uuXQt8CO7_p2oNJJLyV9xehU3VJ&_nc_ohc=M3I7BhC0bAYQ7kNvgHo6L6C&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fdac146-1.fna&_nc_gid=AEakkmO-hAd_zzG9i1ySKAZ&oh=00_AYDg9COfHprkqoG0N5N0UKSsupuRSPPeXau25uQErab9JA&oe=6722BE24"  width="250px;"  alt="Abdullah Sheikh Profile Picture"/><br>
 
 <sub>
 
